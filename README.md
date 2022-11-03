@@ -1,4 +1,5 @@
-# Dungeons and Dragons Discord Bot
+# Dungeons and Dragons Discord Bot 
+# [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/D1D6EORYY)
 This bot includes some stat saving, a profile builder, and die roller (1-∞ sides || 20 is defualt) all with "/" commands.
 
 ____
