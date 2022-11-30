@@ -9,7 +9,7 @@ This discord bot is very lightweight. All you need is a server (anything that ca
 
 **Requirements**: 
 - Node 18
-- Preferably a Linux distro (tested and developed on linux)
+- Preferably a debian based Linux Distro (tested and developed on debian 10)
 - A discord bot token [(Click here for steps)](https://github.com/reactiflux/discord-irc/wiki/Creating-a-discord-bot-&-getting-a-token)
 - Time
 
