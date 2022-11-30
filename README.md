@@ -5,11 +5,11 @@ This bot includes some stat saving, a profile builder, and die roller (1-∞ sid
 ____
 
 ## Hosting
-This discord bot is very light wait. All you need is a server (anything that can run node 18) and a writeable file system.
+This discord bot is very lightweight. All you need is a server (anything that can run Node.js 18) and a writeable file system.
 
 **Requirements**: 
 - Node 18
-- Preferably Linux OS (tested and developed on linux)
+- Preferably a Linux distro (tested and developed on linux)
 - A discord bot token [(Click here for steps)](https://github.com/reactiflux/discord-irc/wiki/Creating-a-discord-bot-&-getting-a-token)
 - Time
 
@@ -37,14 +37,15 @@ npm install
 
 ___
 ### Running
-Now for hosting there are three meathods I would reccomend:
+Now for hosting there are three methods I would recommend:
 1. Use `npm start` to run
+
 2. Use the `screen` tool to host it on a closed cli
 ```bash
 screen -R bot
 npm start
 ```
-crtl+a, d
+ctrl+a, d
 
 or 3. Use pm2
 ```bash
